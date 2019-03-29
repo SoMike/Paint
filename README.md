@@ -1,12 +1,12 @@
 #Paint
 
 ## Concept
-	The app is designed to allow the user to use a canvas freely for drawing and even sharing it to other users that are online.
+	The app is designed to allow the user to use a canvas freely for drawing <br>and even sharing it to other users that are online.
 
 ## Implementation
 	The app was implemented using Java Swing library.
 
-##Updates
+## Updates
 1. version 1.01
 	* added the option of modifing the image added on the canvas by adding different filters
 	* added the option of clearing the entire canvas
