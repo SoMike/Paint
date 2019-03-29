@@ -1,4 +1,4 @@
-#Paint
+# Paint
 
 ## Concept
 	The app is designed to allow the user to use a canvas freely for drawing and even sharing it
